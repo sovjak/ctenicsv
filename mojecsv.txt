@@ -1,0 +1,4 @@
+jedna,dve,tri,ctyri,pet
+deset,dvacet,tricet,ctyricet,padesat
+acko,becko,cecko,decko,ecko
+sto,dveste,trista,ctyrista,petset
